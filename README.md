@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @liamlennon
+- 👋 Hi, I’m Liam Lennon
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning programming and game design.
+- 🌱 I’m currently learning programming and game design
 - 💞️ I’m looking to collaborate on gaming projects
 - 📫 How to reach me l019169k@student.staffs.ac.uk
 
